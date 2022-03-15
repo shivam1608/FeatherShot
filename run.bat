@@ -1,0 +1,1 @@
+cd "d:\Workspace\CPP\FeatherShot\" && g++ main.cpp -o main && "d:\Workspace\CPP\FeatherShot\"main
