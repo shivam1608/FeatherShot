@@ -1,1 +1,1 @@
-cd "d:\Workspace\CPP\FeatherShot\" && g++ main.cpp -o main && "d:\Workspace\CPP\FeatherShot\"main
+g++ main.cpp -o main -lgdi32 -luser32 -lkernel32 -lcomctl32 && main
